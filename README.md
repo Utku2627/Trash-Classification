@@ -26,7 +26,7 @@ The Convolutional Neural Network (CNN) model used in this project consists of:
 The dataset is imported from GaryThung's repository. You can download the dataset from there or you can download it by downloading .data1.rar and .data2.rar files and merging them in a file that named as ".data" 
 
 
-##**Installation**
+# **Installation**
 
 To implement the project you need to create a conda environment. 
 
