@@ -32,6 +32,14 @@ To implement the project you need to create a conda environment.
 
   After succesfully imported the environment all your depencies should be satisfied.
 
+
+**##CudaTest**
+
+This class is not necessary to run the project. It checks the torch if it using the GPU or not.
+
+
+**#Utils**
+This class contains some functions that are necessary to execute the train.py
   
 
 **## Data Preprocessing**
