@@ -11,6 +11,9 @@ To achieve this classification, I used a previously utilized dataset and trained
 This project is designed to meet specific requirements using a conda environment. You can download the **.yaml** file containing all the necessary dependencies from the project files.
 
 
+#**Model Deatils**
+
+
 ##** Model Architecture**
 
 The Convolutional Neural Network (CNN) model used in this project consists of:
@@ -56,7 +59,7 @@ To successfully execute the ImagePreprocessing.py file you may need to change th
 After executing the ImagePreprocessing.py you are ready to execute train.py and getting results.
 
 
-##**Some Results**
+# **Some Results**
 
 
 
