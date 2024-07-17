@@ -45,6 +45,7 @@ After executing the ImagePreprocessing.py you are ready to execute train.py and 
 
 
 
+
 ![Accuracy over Epochs](https://github.com/user-attachments/assets/14b4f47b-0553-4b90-adbe-6ff3108d48ed)
 
 This is the Accuracy over Epochs graphic, as it shows while epochs are reaching higher numbers our accuracy is getting higher but after some epochs this difference can be ignored so it will be unnecessary to keep the model running. 
@@ -68,7 +69,10 @@ This is the confusion matrix of our model. It shows us the accuracy of our model
 Our overall accuracy is 0.7344 for this results it can be change with respect to hyperparameters and model.
 
 We can use a bigger dataset to train the model better. It will increase the accuracy.
+
 We can use other models to get higher accuracy.
+
 We can find the optimum hyperparameter values to get higher accuracy.
+
 
 
