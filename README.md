@@ -11,7 +11,7 @@ To achieve this classification, I used a previously utilized dataset and trained
 This project is designed to meet specific requirements using a conda environment. You can download the **.yaml** file containing all the necessary dependencies from the project files.
 
 
-#**Model Deatils**
+# **Model Deatils**
 
 
 ##** Model Architecture**
