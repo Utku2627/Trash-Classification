@@ -26,7 +26,7 @@ To implement the project you need to create a conda environment.
 
   conda create --name <my-env>  //Prompt to create an environment. (  <my-env> is your environment name  )
 
-  You can simply download the "Anaconda Navigator" and import the .yaml file that is given in the files.
+  You can simply download the "Anaconda Navigator" and import the "Environment.yaml" file that is given in the files.
 
   After downlading Navigator you can import the entire environment to your computer.
 
