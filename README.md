@@ -2,19 +2,23 @@
 
 This is a Trash Classification project with CNN model in Python.
 
+
 **## Introduction**
 
 This project is designed to meet specific requirements using a conda environment. You can download the .yaml file containing all the necessary dependencies from the project files.
+
 
 **## Model Architecture**
 
 The Convolutional Neural Network (CNN) model used in this project consists of:
 - 7 Convolutional Layers
 - 3 MaxPooling Layers
+  
 
 **##Importing the Dataset**
 
 The dataset is imported from GaryThung's repository. You can download the dataset from there or you can download it by downloading .data1.rar and .data2.rar files and merging them in a file that named as ".data" 
+
 
 **##Installation**
 
@@ -28,6 +32,8 @@ To implement the project you need to create a conda environment.
 
   After succesfully imported the environment all your depencies should be satisfied.
 
+  
+
 **## Data Preprocessing**
 
 The photos in the dataset have dimensions of 512x284. Therefore, when setting hyperparameters, the input should be adjusted according to the dataset.
@@ -37,6 +43,7 @@ Before executing the train.py file you should execute the ImagePreprocessing.py 
 To successfully execute the ImagePreprocessing.py file you may need to change the file paths, or you can simply set the file path of the dataset as "C:\TrashClassification\.data".
 
 After executing the ImagePreprocessing.py you are ready to execute train.py and getting results.
+
 
 **##Some Results**
 
